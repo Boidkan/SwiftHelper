@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2E02B8EB1CD290CA002851ED /* UIColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E02B8EA1CD290CA002851ED /* UIColorExtension.swift */; };
 		2E43E27C1C6B1554000D52E2 /* SwiftHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = 2E43E27B1C6B1554000D52E2 /* SwiftHelper.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2E43E2831C6B1554000D52E2 /* SwiftHelper.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2E43E2781C6B1554000D52E2 /* SwiftHelper.framework */; };
 		2E43E2881C6B1554000D52E2 /* SwiftHelperTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E43E2871C6B1554000D52E2 /* SwiftHelperTests.swift */; };
@@ -26,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2E02B8EA1CD290CA002851ED /* UIColorExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIColorExtension.swift; sourceTree = "<group>"; };
 		2E43E2781C6B1554000D52E2 /* SwiftHelper.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftHelper.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E43E27B1C6B1554000D52E2 /* SwiftHelper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SwiftHelper.h; sourceTree = "<group>"; };
 		2E43E27D1C6B1554000D52E2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 				2E43E2941C6B15BE000D52E2 /* NSDateExtension.swift */,
 				2E43E2961C6B15C4000D52E2 /* UIViewExtension.swift */,
 				2E43E27B1C6B1554000D52E2 /* SwiftHelper.h */,
+				2E02B8EA1CD290CA002851ED /* UIColorExtension.swift */,
 				2E43E27D1C6B1554000D52E2 /* Info.plist */,
 			);
 			path = SwiftHelper;
@@ -206,6 +209,7 @@
 				2E43E2971C6B15C4000D52E2 /* UIViewExtension.swift in Sources */,
 				2E43E2951C6B15BE000D52E2 /* NSDateExtension.swift in Sources */,
 				2E43E2931C6B15B7000D52E2 /* AuxilaryMethods.swift in Sources */,
+				2E02B8EB1CD290CA002851ED /* UIColorExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

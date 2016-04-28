@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import SwiftHelper
+//@testable import SwiftHelper
 
 class SwiftHelperTests: XCTestCase {
     
